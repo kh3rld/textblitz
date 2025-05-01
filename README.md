@@ -120,8 +120,8 @@ brew install poppler
 ### Build from Source
 
 ```bash
-git clone https://github.com/bravian1/Textblitz.git
-cd Textblitz
+git clone https://github.com/kh3rld/textblitz.git
+cd textblitz
 go build -o textindex
 ```
 
